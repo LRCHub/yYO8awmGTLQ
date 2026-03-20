@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "THE EARTH",
+  "base_artist": "II-L",
+  "createdAt": "2026-03-20T07:04:15.206430Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Am The Earth",
+      "artist": "Lower Dens",
+      "has_synced": true,
+      "path": "select/01_I_Am_The_Earth_Lower_Dens.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Earth",
+      "artist": "Lisa Germano",
+      "has_synced": false,
+      "path": "select/02_The_Earth_Lisa_Germano.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "A Hole in the Earth",
+      "artist": "Daughter",
+      "has_synced": true,
+      "path": "select/03_A_Hole_in_the_Earth_Daughter.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Corners Of The Earth (feat. RY X)",
+      "artist": "ODESZA feat. RY X",
+      "has_synced": true,
+      "path": "select/04_Corners_Of_The_Earth_(feat._RY_X)_ODESZA_feat._RY_X.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Corners of the Earth (Feat. RY X)",
+      "artist": "Odesza",
+      "has_synced": true,
+      "path": "select/05_Corners_of_the_Earth_(Feat._RY_X)_Odesza.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Once More (Scourge of the Earth mix)",
+      "artist": "The Orb",
+      "has_synced": false,
+      "path": "select/06_Once_More_(Scourge_of_the_Earth_mix)_The_Orb.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Strings In The Earth And Air",
+      "artist": "Dr. Strangely Strange",
+      "has_synced": false,
+      "path": "select/07_Strings_In_The_Earth_And_Air_Dr._Strangely_Strange.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Every You Every Me (Infected by the Scourge of the Earth)",
+      "artist": "Placebo",
+      "has_synced": false,
+      "path": "select/08_Every_You_Every_Me_(Infected_by_the_Scourge_of_the_Earth)_Placebo.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Corner of the Earth",
+      "artist": "Jamiroquai",
+      "has_synced": true,
+      "path": "select/09_Corner_of_the_Earth_Jamiroquai.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Corner of the Earth",
+      "artist": "Jamiroquai",
+      "has_synced": true,
+      "path": "select/10_Corner_of_the_Earth_Jamiroquai.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Feel the Earth Move",
+      "artist": "Martika",
+      "has_synced": true,
+      "path": "select/11_I_Feel_the_Earth_Move_Martika.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "THE EARTH (feat. amelie xoxo)",
+      "artist": "II-L",
+      "has_synced": false,
+      "path": "select/pl_01_THE_EARTH_(feat._amelie_xoxo)_II-L.txt"
+    }
+  ]
+}
